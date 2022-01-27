@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrienarcuri/notebooks-dm)
+
 # Cours DM
 
 Liste des ressource pour le cours de DataMining
