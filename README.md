@@ -2,13 +2,13 @@
 
 # Cours de Data Mining - ISIAD MIAGE Toulouse - UT1 Capitole  - 2022
 
-Liste des ressource pour le cours de DataMining
+Liste des ressources pour le cours de DataMining
 
 ## CMs
 
 - [CM1 - Introduction et premiers concepts](https://docs.google.com/presentation/d/e/2PACX-1vRNtygfleTbJolFaH-9--SL_-075bvIwDX8q77OejHs9-DPxLkKOKjWVRC9UvITKgrOfUUoDTffRNq7/pub?start=false&loop=false&delayms=60000)
 - [CM1 (bis) - Rappels Statistiques](https://docs.google.com/presentation/d/e/2PACX-1vRr2BMr6BaTapsdxQmo74Fd2M84fFYfPTlWYmKcLK1zfDAkRtsTXGY7R4waKDh8ofHNZwT3Bw7SDRjU/pub?start=false&loop=false&delayms=3000)
-- [CM2 - Analyse descriptive](CMs/notebooks/CM2_Analyse_descriptive.ipynb)
+- [CM2 - Notebook - Analyse descriptive](CMs/notebooks/CM2_Analyse_descriptive.ipynb)
 - [CM2/CM3 - Déroulement d’une étude de Data Mining](https://docs.google.com/presentation/d/e/2PACX-1vTgE1wlx2IPnAxQD-7RBgoc7i3DmWVpvtFAa9OE0V87aZJHpxluaFk9jUJ9hnzIOKRh4WqMDZk5WPTr/pub?start=false&loop=false&delayms=3000)
  
  ## TDs
