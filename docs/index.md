@@ -8,6 +8,6 @@
 
 ### Examen individuel
 
-### Contact
+## Contact
 
 adrien.arcuri@ut-capitole.fr
