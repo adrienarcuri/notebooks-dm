@@ -10,11 +10,13 @@ Liste des ressources pour le cours de DataMining
 - [CM1 (bis) - Rappels Statistiques](https://docs.google.com/presentation/d/e/2PACX-1vRr2BMr6BaTapsdxQmo74Fd2M84fFYfPTlWYmKcLK1zfDAkRtsTXGY7R4waKDh8ofHNZwT3Bw7SDRjU/pub?start=false&loop=false&delayms=60000)
 - [CM2 - Notebook - Analyse descriptive](CMs/notebooks/CM2_Analyse_descriptive.ipynb)
 - [CM3- Déroulement d’une étude de Data Mining (Suite) + Clustering](https://docs.google.com/presentation/d/e/2PACX-1vT90vnH6VyY6_rUo03uQbqH49R2LfVAq7GRw4LqQsuNeHUNIRzjr97RIlqaZu4adKaW5VC57zQYcR-z/pub?start=false&loop=false&delayms=60000)
+- [CM4 - Modèles DM + Modélisation prévisionnelle d’une série temporelle](https://docs.google.com/presentation/d/e/2PACX-1vTjTVxXwNl4Z_3nZ7GO9mAT5c8UeE89XzQN_wwSESbJk8MJI3eavyxT7JYHdvkvW8J574HUbrxI6GPA/pub?start=false&loop=false&delayms=60000)
 
  
  ## TDs
  
  - [TD1](./TDs/TD1)
+ - [TD2](./TDs/TD2)
 
 --- 
 
