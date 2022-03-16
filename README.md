@@ -17,6 +17,7 @@ Liste des ressources pour le cours de DataMining
  
  - [TD1](./TDs/TD1)
  - [TD2](./TDs/TD2)
+ - [TD3](./TDs/TD3)
 
 --- 
 
