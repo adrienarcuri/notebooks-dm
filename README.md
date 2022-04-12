@@ -21,6 +21,10 @@ Liste des ressources pour le cours de DataMining
  - [TD3](./TDs/TD3)
  - [TD4](./TDs/TD4)
 
+ ## Projet Collectif
+
+ Voir [les consignes du Projet Collectif](./Projet%20Collectif).
+
 --- 
 
 ## Installation de l'environnement de travail pour les TDs
