@@ -87,7 +87,7 @@ Pour se familiariser avec Colab: https://colab.research.google.com/notebooks/wel
 ## Remerciements
 
 Sincère remerciement à :
-- [Thomas CATTELLE](thomas@cattelle.net) pour m'avoir communiqué à cet effet mes supports de cours (revue pour l'occasion) et de TDs (quasi-inchangé)
+- [Thomas CATTELLE](thomas@cattelle.net) pour m'avoir communiqué ses supports de cours (revue pour l'occasion) et de TDs
 - [Michael PENARANDA](https://fr.linkedin.com/in/michael-penaranda-a85b50180) et [Trimane](https://trimane.fr) qui m'ont permis de reprendre ce cours en partenariat avec l'UTC Capitole de Toulouse.
 - a l'[équipe de pédogique du master MIAGE / ISIAD de l'UTC Capitole](https://www.ut-capitole.fr/formations/nos-diplomes/masters/master-2eme-annee-mention-miage-parcours-type-ingenierie-des-sytemes-d-information-pour-l-aide-a-la-decision-isiad-322437.kjsp)
 - aux élèves sans qui il n'y aurait pas de cours !
