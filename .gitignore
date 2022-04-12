@@ -1,2 +1,5 @@
 .DS_Store
 **/*.ipynb_checkpoints/
+
+# Fichier générés des TDs
+TDs/TD4/crime_transformed.csv
