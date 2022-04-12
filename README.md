@@ -19,6 +19,7 @@ Liste des ressources pour le cours de DataMining
  - [TD1](./TDs/TD1)
  - [TD2](./TDs/TD2)
  - [TD3](./TDs/TD3)
+ - [TD4](./TDs/TD4)
 
 --- 
 
@@ -82,3 +83,12 @@ Pour se familiariser avec Colab: https://colab.research.google.com/notebooks/wel
 - Un IDE pour scientifique - Spyder (intégré à Anaconda) : https://www.spyder-ide.org
 - Un IDE pour codeur - gratuit comme ou VS Code: https://code.visualstudio.com
 - Un IDE commercial Pycharm Pro (la version gratuite ne prend pas en charge les Notebooks): https://www.jetbrains.com/fr-fr/pycharm/
+
+## Remerciements
+
+Sincère remerciement à :
+- [Thomas CATTELLE](thomas@cattelle.net) pour m'avoir communiqué à cet effet mes supports de cours (revue pour l'occasion) et de TDs (quasi-inchangé)
+- [Michael PENARANDA](https://fr.linkedin.com/in/michael-penaranda-a85b50180) et [Trimane](https://trimane.fr) qui m'ont permis de reprendre ce cours en partenariat avec l'UTC Capitole de Toulouse.
+- a l'[équipe de pédogique du master MIAGE / ISIAD de l'UTC Capitole](https://www.ut-capitole.fr/formations/nos-diplomes/masters/master-2eme-annee-mention-miage-parcours-type-ingenierie-des-sytemes-d-information-pour-l-aide-a-la-decision-isiad-322437.kjsp)
+- aux élèves sans qui il n'y aurait pas de cours !
+
